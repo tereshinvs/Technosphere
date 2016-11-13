@@ -1,0 +1,4 @@
+kill: failed to parse argument: '$PPID'
+bash: line 1: still: command not found
+Process 54207 exited: 127
+Process 54214 exited: 0

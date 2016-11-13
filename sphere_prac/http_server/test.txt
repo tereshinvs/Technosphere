@@ -1,0 +1,16 @@
+total 484
+drwxrwxr-x 3 tereshinvs tereshinvs   4096 Nov  6 08:43 .
+drwxrwxr-x 9 tereshinvs tereshinvs   4096 Nov  6 07:29 ..
+drwxrwxr-x 2 tereshinvs tereshinvs   4096 Nov  5 06:09 data
+-rw-rw-r-- 1 tereshinvs tereshinvs      0 Oct 26 12:50 datadata.html
+-rw-rw-r-- 1 tereshinvs tereshinvs   2081 Nov  5 05:26 Handler.cpp
+-rw-rw-r-- 1 tereshinvs tereshinvs    568 Oct 26 12:32 Handler.hpp
+-rwxrwxr-x 1 tereshinvs tereshinvs 383128 Nov  5 01:59 http_server
+-rw-rw-r-- 1 tereshinvs tereshinvs   2195 Nov  4 11:05 main.cpp
+-rw-rw-r-- 1 tereshinvs tereshinvs    782 Nov  4 07:56 Makefile
+-rw-rw-r-- 1 tereshinvs tereshinvs   4179 Oct 26 14:41 Request.cpp
+-rw-rw-r-- 1 tereshinvs tereshinvs   1189 Oct 26 14:37 Request.hpp
+-rw-rw-r-- 1 tereshinvs tereshinvs   1652 Oct 26 11:56 Response.cpp
+-rw-rw-r-- 1 tereshinvs tereshinvs    934 Oct 26 11:51 Response.hpp
+-rw-rw-r-- 1 tereshinvs tereshinvs   1793 Oct 26 12:00 test.cpp
+-rw-rw-r-- 1 tereshinvs tereshinvs      0 Nov  6 08:43 test.txt
